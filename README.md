@@ -1,2 +1,2 @@
 # iSQL
-A SALT (Speech Application Language Tags) based SQL CLR SMS, voice &amp; speech interaction management library.
+A SQL CLR SALT, (Speech Application Language Tags) SMS, voice & speech interaction management library.
